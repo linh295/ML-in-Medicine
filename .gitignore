@@ -1,0 +1,22 @@
+# Dataset
+dataset/
+data/
+datasets/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Logs & runs
+runs/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+dataset/
